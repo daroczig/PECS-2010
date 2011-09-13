@@ -1,6 +1,6 @@
-This repository contains R source code for demonstrating the utility of opensource applications in gather spatial data. 
+This repository contains R source code for demonstrating the utility of opensource applications in gathering spatial data. 
 ----
-The code was shown/run live on the 14th of September 2011 at the "Geostatisztika" workshop ([KSH, Hungary](ksh.hu)) with Lajos Bálint (KSH NKI): *Térbeli pontadatok társadalomtudományi alkalmazásának néhány lehetősége* 
+The code was shown/run live on the 14th of September 2011 at the "Geostatisztika" workshop ([KSH, Hungary](http://ksh.hu)) with Lajos Bálint (KSH NKI): *Térbeli pontadatok társadalomtudományi alkalmazásának néhány lehetősége* 
 
 Directory index:
 ----
