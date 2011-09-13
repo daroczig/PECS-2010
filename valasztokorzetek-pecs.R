@@ -11,6 +11,7 @@
 #	> végül ESRI shape formátumban menti a legyűjtött adatok körét.
 # --------------------------------------------------------------
 #	Készítette: Daróczi Gergely (2011)
+#	URL: http://github.com/daroczig/PECS-2010
 
 library(XML)
 library(R.utils)
